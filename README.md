@@ -1,13 +1,11 @@
-# Hi there, I'm Md Junayed Hasan! 🌍✈️🇧🇩✈️🇰🇷✈️🇬🇧
+# Hi there, I'm Md Junayed Hasan! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=junhasa&color=green)
 ![Total Stars](https://img.shields.io/github/stars/junhasan?style=social)
 
-## About Me 🌟
+## Senior Data Scientist and AI Research Engineer / Committed to Reliability, Safety, and Sustainable Energy / Advocate for Transparency in Automation 🌟
 
-I am a Senior Data Scientist and AI Research Engineer passionate about utilizing artificial intelligence to foster innovations for **net-zero, health, and safety**, and other impactful causes. With a dynamic background spanning **Bangladesh, South Korea, and Scotland**, I am eager to develop unique AI products and provide strategic industry consultation.
-
-### 🚀 What I'm working on:
+## 🚀 What I'm working on:
 
 - Currently crafting an **AI-based solution for underwater sonar** to identify ghost objects and enhance noise-level management in sonar data.
 - Previously engineered a web-based software for **Integrated Response Technology (IRT)**, focusing on automated heat loss detection through IR and optical sensor integration.
