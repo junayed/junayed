@@ -3,11 +3,11 @@
 - 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
 - 🌱 `I am currently learning` **`Chartered Project Management training from CMI and pursuing PMP certification.`**
 - 👯 `I am looking to collaborate on` **`multimodal sensing and explainable AI related R&D.`**
-- 👾 `Sensor technologies I have worked with` : **`Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.`**
+- 👾 `Sensor technologies I have worked with :` **`Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.`**
 - 📄 `Check my research impact at` **[`Google Scholar`](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
-- 💬 `Ask me about` **`Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.`**
-- 📫 `Email me`: **[`askjunayed@gmail.com`](askjunayed@gmail.com)**
-- ⚡ `Fun fact` **`I do have a PhD in Computer Science and Engineering from South Korea 😎`**
+- 💬 `Ask me about :` **`Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.`**
+- 📫 `Email me :` **`askjunayed@gmail.com`**
+- ⚡ `Fun fact :` **`I do have a PhD in Computer Science and Engineering from South Korea 😎`**
 
 
 <h3 align="left">Languages and Tools:</h3>
