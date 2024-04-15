@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👏, I am Junayed, a Senior Data Scientist & AI Research Engineer</h2>
-<h4 align="center">Born and raised in Bangladesh, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the UK.</h4>
-
+<h4 align="center">Born and raised in 🇧🇩, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the 🇬🇧.</h4>
 
 - 🔭 I am currently working on **[Advance Subsea Inspection leveraging Sonar Tech. with AI](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
 - 🌱 I am currently learning **Chartered Project Management training from CMI and pursuing PMP certification.**
@@ -8,6 +7,7 @@
 - 👾 Sensor technologies I have worked with : **Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.**
 - 📄 Check my research impact at **[Google Scholar](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
 - 💬 Ask me about : **Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.**
+- 🌍 Care about : **United Nations Sustainable Development Goals (UNSDGs) [9](https://sdgs.un.org/goals/goal9), [11](https://sdgs.un.org/goals/goal11), and [14](https://sdgs.un.org/goals/goal14).**
 - 📫 Email me : **[askjunayed@gmail.com](mailto:askjunayed@gmail.com)**
 - ⚡ Fun fact : **I 💙 TikTok 😎. Oh, I am a Libra 😉**
 
