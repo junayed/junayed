@@ -1,31 +1,49 @@
-# Hello, I'm [Your Name]! 👋
+# Hi there, I'm Md Junayed Hasan! 🌍✈️🇧🇩✈️🇰🇷✈️🇬🇧
 
-## About Me
-- 🎓 I'm currently studying [Your Field or Major] at [Your University or Institution].
-- 💻 I'm passionate about [Software Development, Machine Learning, Cybersecurity, etc.].
-- 🌱 I’m currently learning [What You're Learning].
-- 👯 I’m looking to collaborate on [Types of Projects You're Interested In].
-- 🤔 I’m looking for help with [What You Need Help With].
-- 💬 Ask me about [Topics You Are Knowledgeable About].
-- 📫 How to reach me: [Your Email or Social Media Links].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [A Fun or Interesting Fact About You].
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![Total Stars](https://img.shields.io/github/stars/your-github-username?style=social)
+![Total Contributions](https://img.shields.io/github/last-commit/your-github-username/your-repo)
 
-## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=junhasan&show_icons=true)
+## About Me 🌟
 
-## Languages and Tools:
-![Your Favorite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+I am a Senior Data Scientist and AI Research Engineer passionate about utilizing artificial intelligence to foster innovations for **net-zero, health, and safety**, and other impactful causes. With a dynamic background spanning **Bangladesh, South Korea, and Scotland**, I am eager to develop unique AI products and provide strategic industry consultation.
 
-## Current Projects
-- [Project Name](GitHub Link) - Brief description of the project.
+### 🚀 What I'm working on:
 
-## Connect with Me
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Your Blog or Website](Your Website URL)
+- Currently crafting an **AI-based solution for underwater sonar** to identify ghost objects and enhance noise-level management in sonar data.
+- Previously engineered a web-based software for **Integrated Response Technology (IRT)**, focusing on automated heat loss detection through IR and optical sensor integration.
 
-## Support Me
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](Your Ko-Fi Link)
+### 🎓 Learning & Development:
 
+- Advancing my project management skills through **Chartered Project Management training from CMI** and pursuing **PMP certification**.
+
+### 👥 Collaboration:
+
+- Keen to collaborate on projects related to **multimodal sensing** and **explainable AI**.
+
+### 💬 Ask me about:
+
+- **Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design**.
+
+### 📚 My Research:
+
+Check out my [Google Scholar profile](#)!
+
+### 🤖 Pro Tools:
+
+`Python`, `R`, `Java`, `MySQL`, `HTML`, `CSS`, `Matlab`, `ChatGPT`, `Gemini`, `Notion`, `Figma`, `Adobe XD`, `Adobe Illustrator`, `Adobe Photoshop`, `Glideapps`, `Streamlit`, `Excel`, `Tableau`, `BuildBox`
+
+### 😄 Fun fact:
+
+I hold a PhD in Computer Engineering from the University of Ulsan, South Korea, and am a big fan of **BTS** and **BlackPink**! Previously a mobile game developer, I now cherish traveling, gourmet food, and photography in my spare time.
+
+### 📫 Connect with me:
+
+- [LinkedIn](#)
+- [YouTube](#)
+- [Medium](#)
+- [Email](#)
+
+---
+
+Looking forward to making a positive impact together! Let's connect and explore the vast possibilities in the world of AI!
