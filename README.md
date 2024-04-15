@@ -51,6 +51,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### 😂 Isn't it cool ? 
+### Isn't it cool ? 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
