@@ -1,8 +1,7 @@
 # Hi there, I'm Md Junayed Hasan! 🌍✈️🇧🇩✈️🇰🇷✈️🇬🇧
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-![Total Stars](https://img.shields.io/github/stars/your-github-username?style=social)
-![Total Contributions](https://img.shields.io/github/last-commit/your-github-username/your-repo)
+![Profile Views](https://komarev.com/ghpvc/?username=junhasa&color=green)
+![Total Stars](https://img.shields.io/github/stars/junhasan?style=social)
 
 ## About Me 🌟
 
