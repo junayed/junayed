@@ -2,14 +2,14 @@
 <h4 align="center">Born and raised in Bangladesh, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the UK.</h4>
 
 
-- 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
-- 🌱 `I am currently learning` **`Chartered Project Management training from CMI and pursuing PMP certification.`**
-- 👯 `I am looking to collaborate on` **`multimodal sensing and explainable AI related R&D.`**
-- 👾 `Sensor technologies I have worked with :` **`Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.`**
-- 📄 `Check my research impact at` **[`Google Scholar`](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
-- 💬 `Ask me about :` **`Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.`**
-- 📫 `Email me :` **[`askjunayed@gmail.com`](mailto:askjunayed@gmail.com)**
-- ⚡ `Fun fact :` **`I ❤️ TikTok 😎. Oh, I am a Libra 😉`**
+- 🔭 I am currently working on **[Advance Subsea Inspection leveraging Sonar Tech. with AI](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
+- 🌱 I am currently learning **Chartered Project Management training from CMI and pursuing PMP certification.**
+- 👯 I am looking to collaborate on **multimodal sensing and explainable AI related R&D.**
+- 👾 Sensor technologies I have worked with : **Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.**
+- 📄 Check my research impact at **[Google Scholar](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
+- 💬 Ask me about : **Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.**
+- 📫 Email me : **[askjunayed@gmail.com](mailto:askjunayed@gmail.com)**
+- ⚡ Fun fact : **I 💙 TikTok 😎. Oh, I am a Libra 😉**
 
 ##### 💻 Language, Technologies, and Data Science/AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
