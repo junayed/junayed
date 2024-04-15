@@ -2,19 +2,12 @@
 <h3 align="center">Senior Data Scientist and AI Research Engineer | Committed to Reliability, Safety, and Sustainable Energy 🌟</h3>
 
 - 🔭 I am currently working on [underwater depth estmation with AI using sonar](https://github.com/junayed/Ping360-Capture-analysis-and-AI.git)
-
 - 🌱 I am currently learning **Chartered Project Management training from CMI and pursuing PMP certification.**
-
 - 👯 I am looking to collaborate on **multimodal sensing and explainable AI related R&D.**
-
 - 👾 Sensor technologies I have worked with : **Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors**
-
 - 📄 Check my research impact [https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)
-
 - 💬 Ask me about **Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.**
-
 - 📫 Email me: **askjunayed@gmail.com**
-
 - ⚡ Fun fact **I do have a PhD in Computer Science and Engineering from South Korea 😎**
 
 <h3 align="left">Connect with me:</h3>
