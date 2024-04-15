@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👏, I am Junayed, a Senior Data Scientist & AI Research Engineer</h2>
-<h3 align="center">Born & raised in 🇧🇩, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in 🇰🇷. I now reside in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 as a Global Talent of the 🇬🇧.</h3>
+<span align="center">Born and raised in Bangladesh, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the UK.</span>
 
 
 - 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
