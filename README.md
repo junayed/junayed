@@ -1,5 +1,5 @@
-<h1 align="center">`Hi 👋, I am Md Junayed Hasan`</h1>
-<h3 align="center">`Senior Data Scientist and AI Research Engineer` | `Committed to Reliability, Safety, & Sustainable Energy`</h3>
+<h1 align="center">Hi 👋, I am Md Junayed Hasan</h1>
+<h3 align="center">Senior Data Scientist and AI Research Engineer | Committed to Reliability, Safety, & Sustainable Energy </h3>
 
 - 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
 - 🌱 `I am currently learning` **`Chartered Project Management training from CMI and pursuing PMP certification.`**
