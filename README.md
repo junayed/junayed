@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👏, I am Junayed, a Senior Data Scientist & AI Research Engineer</h2>
-<h3 align="center">Born and raised in 🇧🇩, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in 🇰🇷. I now reside in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 as a Global Talent of the 🇬🇧.</h3>
-##
+<h3 align="center">Born & raised in 🇧🇩, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in 🇰🇷. I now reside in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 as a Global Talent of the 🇬🇧.</h3>
 
 
 - 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
@@ -10,7 +9,7 @@
 - 📄 `Check my research impact at` **[`Google Scholar`](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
 - 💬 `Ask me about :` **`Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.`**
 - 📫 `Email me :` **`askjunayed@gmail.com`**
-- ⚡ `Fun fact :` **`I do have a PhD in Computer Science and Engineering from 🇰🇷 😎`**
+- ⚡ `Fun fact :` **`I love travelling and TikTok 😎`**
 
 
 <h3 align="left">Languages and Tools:</h3>
