@@ -1,5 +1,6 @@
 <h3 align="center">Hi, I am Junayed, a Senior Data Scientist & AI Research Engineer</h3>
 
+- 🔭 I am currently working on **[Advance Subsea Inspection leveraging Sonar Tech. with AI](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
 - 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
 - 🌱 `I am currently learning` **`Chartered Project Management training from CMI and pursuing PMP certification.`**
 - 👯 `I am looking to collaborate on` **`multimodal sensing and explainable AI related R&D.`**
