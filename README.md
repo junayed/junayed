@@ -11,7 +11,7 @@
 - 📫 Email me : **[askjunayed@gmail.com](mailto:askjunayed@gmail.com)**
 - ⚡ Fun fact : **I 💙 TikTok 😎. Oh, I am a Libra 😉**
 
-##### 💻 Language, Technologies, and Data Science/AI
+#### 💻 Language, Technologies, and Data Science/AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
@@ -38,7 +38,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 
-##### 🍎 Product Design and Project Management
+#### 🍎 Product Design and Project Management
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
