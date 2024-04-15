@@ -8,7 +8,7 @@
 - 👾 `Sensor technologies I have worked with :` **`Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.`**
 - 📄 `Check my research impact at` **[`Google Scholar`](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
 - 💬 `Ask me about :` **`Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.`**
-- 📫 `Email me :` **`askjunayed@gmail.com`**
+- 📫 `Email me :` **[`askjunayed@gmail.com`](mailto:askjunayed@gmail.com)**
 - ⚡ `Fun fact :` **`I love travelling and TikTok 😎`**
 
 
