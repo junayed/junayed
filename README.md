@@ -1,4 +1,4 @@
-<h3 align="center">Senior Data Scientist & AI Research Engineer | Part-time Tech Consultant for AI-Driven Condition Monitoring</h3>
+`Senior Data Scientist & AI Research Engineer`
 
 - 🔭 `I am currently working on` **[`Advance Subsea Inspection leveraging Sonar Tech. with AI`](https://github.com/junayed/Ping360-Capture-analysis-and-AI)**
 - 🌱 `I am currently learning` **`Chartered Project Management training from CMI and pursuing PMP certification.`**
