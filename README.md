@@ -9,7 +9,7 @@
 - 📄 `Check my research impact at` **[`Google Scholar`](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)**
 - 💬 `Ask me about :` **`Statistics, Machine Learning, Deep Learning, Explainable AI, Causality, Correlation, and Product Design.`**
 - 📫 `Email me :` **[`askjunayed@gmail.com`](mailto:askjunayed@gmail.com)**
-- ⚡ `Fun fact :` **`I love travelling and watching TikTok 😎. Oh, I am a Libra 😉`**
+- ⚡ `Fun fact :` **`I ❤️ TikTok 😎. Oh, I am a Libra 😉`**
 
 ##### 💻 Language, Technologies, and Data Science/AI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
