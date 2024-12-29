@@ -1,7 +1,8 @@
-<h2 align="center">Hi 👏, I am Junayed, a Senior Data Scientist & AI Research Engineer</h2>
-<h4 align="center">Born and raised in Bangladesh, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the UK.</h4>
+<h2 align="center">Hi 👏, I am Junayed, an AI Research Engineer with a PhD and vast experience with Data Science</h2>
+<h4 align="center">Born and raised in Bangladesh, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the UK, wokring as an AI engineer for a leading company of the world. </h4>
 
-- 🔭 I am currently working on **[Visual Twin - Digital Twin Demo with Arduino-Python-Unreal Engine](https://github.com/junayed/Arduino-Joystick-Control)**
+- 🔭 Currently I am working on Azure AI. So secret ;)
+- 🔭 Previously I was working on **[Visual Twin - Digital Twin Demo with Arduino-Python-Unreal Engine](https://github.com/junayed/Arduino-Joystick-Control)**. Now I am a remote collaborator.
 - 🌱 I am currently learning **Chartered Project Management training from CMI and pursuing PMP certification.**
 - 👯 I am looking to collaborate on **multimodal sensing and explainable AI related R&D.**
 - 👾 Sensor technologies I have worked with : **Acoustic sensors (NI, PAC), Thermal Imaging Cameras/IR (FLIR, Sony), Depth Cameras (Intel Realsense), Sonar Devices (Ping360, Imagenex 837 Series), EEG Sensors.**
@@ -48,6 +49,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
-### Huh 👯‍♂️ ? 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
