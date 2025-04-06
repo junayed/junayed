@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👏, I am Junayed, an AI Research Engineer with a PhD and vast experience with Data Science</h2>
+<h2 align="center">Hi 👏, I am Junayed, a Head AI Engineer with a PhD and vast experience with Data Science</h2>
 <h4 align="center">Born and raised in Bangladesh, where I began my engineering career, I later pursued a PhD and started my Data Science/AI Engineering career in South Korea. I now reside in Scotland as a Global Talent of the UK, wokring as an AI engineer for a leading company of the world. </h4>
 
 - 🔭 Currently I am working on Azure AI. So secret ;)
