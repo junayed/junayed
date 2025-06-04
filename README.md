@@ -1,4 +1,4 @@
-# Md Junayed Hasan| AI Strategy & Digital Transformation Leader
+# Md Junayed Hasan | AI Strategy & Digital Transformation Leader
 
 <div align="center">
 
@@ -6,9 +6,10 @@
 
 *🏗️ Building enterprise AI solutions that deliver measurable business impact*
 
-[![📊 Scholar](https://img.shields.io/badge/Research-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjunayedhasan/)
-[![📧 Email](https://img.shields.io/badge/Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:askjunayed@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askjunayed@gmail.com)
+
 
 </div>
 
