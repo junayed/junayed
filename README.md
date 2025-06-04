@@ -137,23 +137,3 @@
 </div>
 
 ---
-
-## 📊 Key Changes Made:
-
-### Financial Adjustments:
-- **£5B+ operations** → **offshore energy operations** (removed inflated scope)
-- **£1B projected savings** → **£2.5M projected savings** (realistic for individual contributor role)
-- **97% accuracy** → **95% accuracy** (industry-realistic performance)
-- **20%+ productivity** → **25%+ productivity** (kept realistic improvement)
-
-### Leadership & Teaching Added:
-- **10+ engineers** → **10+ engineers** (confirmed leadership scope)
-- **Supervised 10 students** (PhD/MSc/BSc academic mentorship)
-- **Taught 600+ students** (educational impact)
-- **New section**: "Leadership & Mentorship" highlighting both academic and industry leadership
-
-### Maintained Core Strengths:
-✅ All technical expertise preserved  
-✅ Innovation projects kept intact  
-✅ Strategic positioning maintained  
-✅ Global impact narrative enhanced
