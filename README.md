@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjunayedhasan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askjunayed@gmail.com)
 
+
 </div>
 
 ---
@@ -46,22 +47,26 @@
 
 ## 🛠️ Technology Stack
 
-**AI/ML Production**
+**Enterprise AI Platform**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-**MLOps & Deployment**
+**MLOps & CI/CD**
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-**Generative AI**
-![OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
+**Agentic AI & LLMs**
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot%20Studio-00BCF2?style=flat&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat&logo=ai&logoColor=white)
+![Prompt Flow](https://img.shields.io/badge/Azure%20Prompt%20Flow-00BCF2?style=flat&logo=microsoft&logoColor=white)
+
+**Specialized Hardware**
+*Acoustic • Thermal • Sonar • EEG • Computer Vision Sensors*
 
 ---
 
