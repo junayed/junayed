@@ -1,4 +1,4 @@
-# Junayed | AI Strategy & Digital Transformation Leader
+# Md Junayed Hasan | AI Strategy & Digital Transformation Leader
 
 <div align="center">
 
