@@ -1,15 +1,14 @@
-# Md Junayed Hasan | AI Strategy & Digital Transformation Leader
+# Md Junayed Hasan| AI Strategy & Digital Transformation Leader
 
 <div align="center">
 
-**Chief AI Engineer • PhD Machine Learning • UK Global Talent**
+**🎯 Chief AI Engineer • 🎓 PhD Machine Learning • 🌟 UK Global Talent**
 
-*Building enterprise AI solutions that deliver measurable business impact*
+*🏗️ Building enterprise AI solutions that deliver measurable business impact*
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)
+[![📊 Scholar](https://img.shields.io/badge/Research-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=6dp1PZAAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjunayedhasan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askjunayed@gmail.com)
-
+[![📧 Email](https://img.shields.io/badge/Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:askjunayed@gmail.com)
 
 </div>
 
@@ -72,13 +71,13 @@
 
 ## 🌟 Key Innovations
 
-**SeaSense** - Haptic AI for subsea robotics  
+**🌊 SeaSense** - Haptic AI for subsea robotics  
 *Revolutionary underwater operations with reduced carbon footprint*
 
-**OLTER Digital Hub** - Cross-industry automation platform  
+**🏗️ OLTER Digital Hub** - Cross-industry automation platform  
 *AI-powered maintenance scheduling and digital twin integration*
 
-**Scottish Homes Energy AI** - Thermal analysis automation  
+**🏠 Scottish Homes Energy AI** - Thermal analysis automation  
 *Processing 300-500 properties daily, supporting net-zero targets*
 
 ---
@@ -91,24 +90,27 @@
 
 ---
 
-## 🌍 Impact & Recognition
+## 🌍 Global Impact & Strategic Partnerships
 
-**UN SDG Alignment**: Industry Innovation • Sustainable Cities • Marine Conservation
+**🎯 UN SDG Alignment**  
+🏭 [SDG 9: Industry Innovation](https://sdgs.un.org/goals/goal9) • 🏙️ [SDG 11: Sustainable Cities](https://sdgs.un.org/goals/goal11) • 🌊 [SDG 14: Marine Conservation](https://sdgs.un.org/goals/goal14)
 
-**Partnerships**: Microsoft, Google enterprise collaborations
+**🤝 Enterprise Partnerships**  
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft"> <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white" alt="Google"> <img src="https://img.shields.io/badge/Saudi%20Aramco-00843D?style=flat&logo=chevron&logoColor=white" alt="Saudi Aramco">
 
-**Geographic Impact**: Bangladesh → South Korea → Scotland
+**🗺️ Global Journey**  
+🇧🇩 **Bangladesh** → 🇰🇷 **South Korea** → 🏴󠁧󠁢󠁳󠁣󠁴󠁿 **Scotland**
 
 ---
 
-## 🤝 Open for Collaboration
+## 🤝 Open for Strategic Collaboration
 
-**Seeking strategic partnerships in:**
-- Enterprise AI transformation programs
-- Multimodal sensing & explainable AI research  
-- C-suite technology strategy initiatives
+**🎯 Seeking partnerships in:**
+- 🏢 Enterprise AI transformation programs
+- 🔬 Multimodal sensing & explainable AI research  
+- 💼 C-suite technology strategy initiatives
 
-**Contact**: [askjunayed@gmail.com](mailto:askjunayed@gmail.com) | Aberdeen, Scotland
+**📍 Contact**: [askjunayed@gmail.com](mailto:askjunayed@gmail.com) | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Aberdeen, Scotland
 
 ---
 
