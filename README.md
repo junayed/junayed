@@ -41,7 +41,7 @@
 - **Teaching excellence**: Educated 600+ students in AI/ML
 
 **Research & Innovation**
-- 20+ peer-reviewed AI publications
+- 40+ peer-reviewed AI publications
 - Minister of Science & Technology Award winner
 - International conference speaker
 
