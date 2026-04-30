@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**🎯 Chief AI Engineer • 🎓 PhD Machine Learning • 🌟 UK Global Talent**
+**🎯 AI Engineer • 🎓 PhD Machine Learning • 🌟 UK Global Talent**
 
 *🏗️ Building enterprise AI solutions that deliver measurable business impact*
 
